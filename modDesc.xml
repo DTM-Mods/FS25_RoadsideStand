@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="99" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
+    <author>Fennell</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Roadside Stand</en>
+    </title>
+    <description>
+        <en><![CDATA[A roadside selling stand you can place on your own farm.
+
+It accepts field crops and windrows (grass, hay, straw, alfalfa, clover, flax, hemp, legume straw; including ones added by your map and other mods), bales, wood chips and rope pallets. Nothing else: no milk, other products, fuel or inputs.
+Tip crops, windrows and wood chips into the pit and drop bales and rope pallets in the bale zone. Both are on the same lane.
+
+Price: 100,000
+Pays 100% of the base price. Flooding it with one crop lowers the price, which recovers over 48 in-game hours.]]></en>
+    </description>
+
+    <iconFilename>icon_roadsideStand.png</iconFilename>
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/RoadsideStand.lua"/>
+    </extraSourceFiles>
+
+    <storeItems>
+        <storeItem xmlFilename="placeables/roadsideStand.xml"/>
+    </storeItems>
+
+    <l10n>
+        <text name="shopItem_roadsideStand">
+            <en>Roadside Stand</en>
+        </text>
+    </l10n>
+</modDesc>
