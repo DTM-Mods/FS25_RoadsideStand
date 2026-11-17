@@ -7,6 +7,7 @@
         </functions>
         <image>$data/placeables/mapUS/farmersMarketUS/store_farmersMarketUS.png</image>
         <price>100000</price>
+        <dailyUpkeep>0</dailyUpkeep>
         <canBeSold>true</canBeSold>
         <showInStore>true</showInStore>
         <lifetime>1000</lifetime>
@@ -30,6 +31,7 @@
     <base>
         <filename>placeables/roadsideStand.i3d</filename>
         <canBeRenamed>true</canBeRenamed>
+        <boughtWithFarmland>false</boughtWithFarmland>
     </base>
 
     <placement useRandomYRotation="false" useManualYRotation="true" >

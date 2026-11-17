@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="99" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
+<modDesc descVersion="115" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
     <author>DTM Mods, Fennell</author>
-    <version>1.0.0.3</version>
+    <version>1.0.0.4</version>
     <title>
         <en>Roadside Stand</en>
     </title>
@@ -12,10 +12,23 @@ It accepts field crops and windrows (grass, hay, straw, alfalfa, clover, flax, h
 Tip crops, windrows and wood chips into the pit and drop bales and rope pallets in the bale zone. Both are on the same lane.
 
 Price: 100,000
-Pays 100% of the base price. Flooding it with one crop lowers the price, which recovers over 48 in-game hours.]]></en>
+Pays 100% of the base price. Flooding it with one crop lowers the price, which recovers over 48 in-game hours.
+
+Changelog 1.0.0.4:
+- Meets the GIANTS ModHub checks (TestRunner): textures, icon and modDesc brought up to date.]]></en>
+        <de><![CDATA[Ein Verkaufsstand am Straßenrand, den du auf deinem eigenen Hof platzieren kannst.
+
+Er nimmt Feldfrüchte und Schwade (Gras, Heu, Stroh, Luzerne, Klee, Flachs, Hanf, Leguminosenstroh; auch solche, die deine Karte und andere Mods hinzufügen), Ballen, Hackschnitzel und Seilpaletten an. Sonst nichts: keine Milch, keine anderen Produkte, kein Kraftstoff und keine Betriebsmittel.
+Feldfrüchte, Schwade und Hackschnitzel kippst du in die Grube, Ballen und Seilpaletten legst du in der Ballenzone ab. Beides liegt an derselben Spur.
+
+Preis: 100.000
+Zahlt 100 % des Grundpreises. Wird er mit einer Frucht überschwemmt, sinkt der Preis und erholt sich innerhalb von 48 Spielstunden.
+
+Changelog 1.0.0.4:
+- Erfüllt die GIANTS-ModHub-Prüfungen (TestRunner): Texturen, Icon und modDesc auf den aktuellen Stand gebracht.]]></de>
     </description>
 
-    <iconFilename>icon_roadsideStand.png</iconFilename>
+    <iconFilename>icon_roadsideStand.dds</iconFilename>
     <multiplayer supported="true"/>
 
     <extraSourceFiles>
