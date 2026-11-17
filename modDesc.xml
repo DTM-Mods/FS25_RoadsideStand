@@ -6,22 +6,28 @@
         <en>Roadside Stand</en>
     </title>
     <description>
-        <en><![CDATA[A roadside selling stand you can place on your own farm.
+        <en><![CDATA[Category: Selling Points
+Price: $100,000
+Monthly upkeep: none
+
+A roadside selling stand you can place on your own farm.
 
 It accepts field crops and windrows (grass, hay, straw, alfalfa, clover, flax, hemp, legume straw; including ones added by your map and other mods), bales, wood chips and rope pallets. Nothing else: no milk, other products, fuel or inputs.
 Tip crops, windrows and wood chips into the pit and drop bales and rope pallets in the bale zone. Both are on the same lane.
 
-Price: 100,000
 Pays 100% of the base price. Flooding it with one crop lowers the price, which recovers over 48 in-game hours.
 
 Changelog 1.0.0.5:
 - Updated for the current game version (modDesc version 116).]]></en>
-        <de><![CDATA[Ein Verkaufsstand am Straßenrand, den du auf deinem eigenen Hof platzieren kannst.
+        <de><![CDATA[Kategorie: Verkaufsstellen
+Preis: 100.000 €
+Monatliche Unterhaltskosten: keine
+
+Ein Verkaufsstand am Straßenrand, den du auf deinem eigenen Hof platzieren kannst.
 
 Er nimmt Feldfrüchte und Schwade (Gras, Heu, Stroh, Luzerne, Klee, Flachs, Hanf, Leguminosenstroh; auch solche, die deine Karte und andere Mods hinzufügen), Ballen, Hackschnitzel und Seilpaletten an. Sonst nichts: keine Milch, keine anderen Produkte, kein Kraftstoff und keine Betriebsmittel.
 Feldfrüchte, Schwade und Hackschnitzel kippst du in die Grube, Ballen und Seilpaletten legst du in der Ballenzone ab. Beides liegt an derselben Spur.
 
-Preis: 100.000
 Zahlt 100 % des Grundpreises. Wird er mit einer Frucht überschwemmt, sinkt der Preis und erholt sich innerhalb von 48 Spielstunden.
 
 Changelog 1.0.0.5:
